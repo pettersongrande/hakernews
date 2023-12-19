@@ -1,3 +1,22 @@
+
+
+/* COLOR PALLETTE {
+
+GREECE BLUE - #101e5a
+LIGHT BLUE AND GRAY - #5d80b6
+GRAY BLUE - #acbdd3
+GREECE WHITE - #f7f8f9
+MARINE GRAY - #cbc6c3
+
+link: https://colorpalettes.net/color-palette-1874/
+
+}
+
+*/
+
+
+/* LANDING PAGES */
+
 * {
 	-webkit-transition-property: all;
 	-webkit-transition-duration: .2s;
@@ -8,7 +27,7 @@
 
 body{
   background: #f7f8f9;
-  padding:75px;
+  padding: 70px;
   text-align:center;
   font-family: 'Oswald', sans-serif;
 }
@@ -16,6 +35,12 @@ body{
 h1{
   color:#101e5a;
   font-weight:100px;
+}
+
+.container li{
+    color: #101e5a;
+    text-align: left;
+    font-weight: bold;
 }
 
 .btn{
@@ -32,7 +57,7 @@ h1{
   border:none;
   background:rgba(0, 0, 0, 0.4);
   background:#5d80b6;
-  padding:20px 20px; #000;
+  padding:20px 20px;
   color:#1b1b1b;
 }
 
@@ -48,4 +73,14 @@ h1{
   width:210px;
   margin:auto;
   margin-top:400px;
+}
+
+.container {
+    
+    width: 90vw;
+    height: 70vh;
+    background-color: 
+    #cbc6c3;
+
+
 }
